@@ -1,0 +1,15 @@
+C:\dev\TesteTecnicoTargetSistemas\Pergunta05\bin\Debug\net8.0\Pergunta05.exe
+C:\dev\TesteTecnicoTargetSistemas\Pergunta05\bin\Debug\net8.0\Pergunta05.deps.json
+C:\dev\TesteTecnicoTargetSistemas\Pergunta05\bin\Debug\net8.0\Pergunta05.runtimeconfig.json
+C:\dev\TesteTecnicoTargetSistemas\Pergunta05\bin\Debug\net8.0\Pergunta05.dll
+C:\dev\TesteTecnicoTargetSistemas\Pergunta05\bin\Debug\net8.0\Pergunta05.pdb
+C:\dev\TesteTecnicoTargetSistemas\Pergunta05\obj\Debug\net8.0\Pergunta05.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TesteTecnicoTargetSistemas\Pergunta05\obj\Debug\net8.0\Pergunta05.AssemblyInfoInputs.cache
+C:\dev\TesteTecnicoTargetSistemas\Pergunta05\obj\Debug\net8.0\Pergunta05.AssemblyInfo.cs
+C:\dev\TesteTecnicoTargetSistemas\Pergunta05\obj\Debug\net8.0\Pergunta05.csproj.CoreCompileInputs.cache
+C:\dev\TesteTecnicoTargetSistemas\Pergunta05\obj\Debug\net8.0\Pergunta05.sourcelink.json
+C:\dev\TesteTecnicoTargetSistemas\Pergunta05\obj\Debug\net8.0\Pergunta05.dll
+C:\dev\TesteTecnicoTargetSistemas\Pergunta05\obj\Debug\net8.0\refint\Pergunta05.dll
+C:\dev\TesteTecnicoTargetSistemas\Pergunta05\obj\Debug\net8.0\Pergunta05.pdb
+C:\dev\TesteTecnicoTargetSistemas\Pergunta05\obj\Debug\net8.0\Pergunta05.genruntimeconfig.cache
+C:\dev\TesteTecnicoTargetSistemas\Pergunta05\obj\Debug\net8.0\ref\Pergunta05.dll
