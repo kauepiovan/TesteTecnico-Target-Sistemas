@@ -1,0 +1,15 @@
+C:\dev\TesteTecnicoTargetSistemas\Pergunta04\bin\Debug\net8.0\Pergunta04.exe
+C:\dev\TesteTecnicoTargetSistemas\Pergunta04\bin\Debug\net8.0\Pergunta04.deps.json
+C:\dev\TesteTecnicoTargetSistemas\Pergunta04\bin\Debug\net8.0\Pergunta04.runtimeconfig.json
+C:\dev\TesteTecnicoTargetSistemas\Pergunta04\bin\Debug\net8.0\Pergunta04.dll
+C:\dev\TesteTecnicoTargetSistemas\Pergunta04\bin\Debug\net8.0\Pergunta04.pdb
+C:\dev\TesteTecnicoTargetSistemas\Pergunta04\obj\Debug\net8.0\Pergunta04.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TesteTecnicoTargetSistemas\Pergunta04\obj\Debug\net8.0\Pergunta04.AssemblyInfoInputs.cache
+C:\dev\TesteTecnicoTargetSistemas\Pergunta04\obj\Debug\net8.0\Pergunta04.AssemblyInfo.cs
+C:\dev\TesteTecnicoTargetSistemas\Pergunta04\obj\Debug\net8.0\Pergunta04.csproj.CoreCompileInputs.cache
+C:\dev\TesteTecnicoTargetSistemas\Pergunta04\obj\Debug\net8.0\Pergunta04.sourcelink.json
+C:\dev\TesteTecnicoTargetSistemas\Pergunta04\obj\Debug\net8.0\Pergunta04.dll
+C:\dev\TesteTecnicoTargetSistemas\Pergunta04\obj\Debug\net8.0\refint\Pergunta04.dll
+C:\dev\TesteTecnicoTargetSistemas\Pergunta04\obj\Debug\net8.0\Pergunta04.pdb
+C:\dev\TesteTecnicoTargetSistemas\Pergunta04\obj\Debug\net8.0\Pergunta04.genruntimeconfig.cache
+C:\dev\TesteTecnicoTargetSistemas\Pergunta04\obj\Debug\net8.0\ref\Pergunta04.dll
